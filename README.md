@@ -6,4 +6,4 @@ Visit [HomePage][id]
 
 Introduction(chinese version): An introduction about how to create a free blog using GitHub and Jeklly.
 
-[id]:http://bigworld.github.io/ "bigworld"
+[id]:http://bigworld.github.io/ "bigworld.github.io"
